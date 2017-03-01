@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2117B442F7CC1F441D0B3BCB0A854E5F94B4EC41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2117B442F7CC1F441D0B3BCB0A854E5F94B4EC41" : 9223372036854775807,
+    "204B8EFE146C0E80D77A4FDDF115AE9F3782E6BA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9D3BC158-F7EF-4241-9F64-3C20F439C2FF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2117B442F7CC1F441D0B3BCB0A854E5F94B4EC41" : "GesturesToUnlock\/",
+    "204B8EFE146C0E80D77A4FDDF115AE9F3782E6BA" : "CoreLock"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CoreLock",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CoreLock.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nsdictionary\/CoreLock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "204B8EFE146C0E80D77A4FDDF115AE9F3782E6BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JokesWB\/GesturesToUnlock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2117B442F7CC1F441D0B3BCB0A854E5F94B4EC41"
+    }
+  ]
+}
